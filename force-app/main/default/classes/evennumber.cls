@@ -3,6 +3,6 @@ public with sharing class evennumber {
 // comment
 // comment 2
 //comment 3
-    /comment 4
+    //comment 4
     }
 }
